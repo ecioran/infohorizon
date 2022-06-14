@@ -1,9 +1,5 @@
 module.exports = {
-  // ...
-  url: 'https://ecioran.github.io', // Your website URL
-  baseUrl: '/',
-  projectName: 'ecioran.github.io',
-  organizationName: 'ecioran',
-  trailingSlash: false,
+  url: 'https://docusaurus-2.netlify.app', // Url to your site with no trailing slash
+  baseUrl: '/', // Base directory of your site relative to your repo
   // ...
 };
