@@ -2,5 +2,4 @@
 
 * [3D Printing](README.md)
 * [infohorizon](<README (1).md>)
-* [animals](animals.md)
-* [animals](birds.md)
+* [animals](animals.md, birds.md)
