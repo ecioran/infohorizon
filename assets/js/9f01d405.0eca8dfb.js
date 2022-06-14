@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinfohorizon=self.webpackChunkinfohorizon||[]).push([[6017],{4138:function(o){o.exports=JSON.parse('{"label":"hola","permalink":"/infohorizon/blog/tags/hola","allTagsPath":"/infohorizon/blog/tags","count":1}')}}]);

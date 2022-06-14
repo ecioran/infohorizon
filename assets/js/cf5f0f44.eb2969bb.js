@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinfohorizon=self.webpackChunkinfohorizon||[]).push([[8469],{908:function(o){o.exports=JSON.parse('{"label":"facebook","permalink":"/infohorizon/blog/tags/facebook","allTagsPath":"/infohorizon/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinfohorizon=self.webpackChunkinfohorizon||[]).push([[3108],{4222:function(o){o.exports=JSON.parse('{"permalink":"/infohorizon/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
